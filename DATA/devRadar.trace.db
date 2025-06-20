@@ -1,0 +1,6 @@
+2025-05-27 23:18:59.319959-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "DEV" not found (this database is empty); SQL statement:
+select d1_0.id,d1_0.avatar_url,d1_0.bio,d1_0.github_username,d1_0.latitude,d1_0.longitude,d1_0.name from dev d1_0 [42104-232]
+2025-05-27 23:30:23.876671-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "DEV" not found (this database is empty); SQL statement:
+select d1_0.id,d1_0.avatar_url,d1_0.bio,d1_0.github_username,d1_0.latitude,d1_0.longitude,d1_0.name from dev d1_0 [42104-232]
